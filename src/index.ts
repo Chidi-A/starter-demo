@@ -4,5 +4,5 @@ window.Webflow ||= [];
 window.Webflow.push(() => {
   const name = 'Emmanuel Anyanwu';
   greetUser(name);
-  document.body.style.backgroundColor = 'blue';
+  document.body.style.backgroundColor = 'red';
 });
